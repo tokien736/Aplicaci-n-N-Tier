@@ -1,0 +1,158 @@
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\csc.exe.config
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\csc.rsp
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\csi.exe
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\csi.exe.config
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\csi.rsp
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\System.AppContext.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Console.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\System.IO.Pipes.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Security.Claims.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\vbc.exe.config
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\vbc.rsp
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\Antlr3.Runtime.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\CapaEntidad.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\CapaNegocio.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\Newtonsoft.Json.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\System.Web.Optimization.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\WebGrease.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\CapaDato.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\CapaEntidad.pdb
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\CapaNegocio.pdb
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\System.Web.Optimization.xml
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\Newtonsoft.Json.xml
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\Antlr3.Runtime.pdb
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\CapaDato.pdb
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\Antlr3.Runtime.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\CapaEntidad.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\CapaNegocio.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\Newtonsoft.Json.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\System.Web.Optimization.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\WebGrease.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\CapaDato.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\CapaEntidad.pdb
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\CapaNegocio.pdb
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\System.Web.Optimization.xml
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\Newtonsoft.Json.xml
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\Antlr3.Runtime.pdb
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\CapaDato.pdb
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\csc.exe.config
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\csc.rsp
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\csi.exe
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\csi.exe.config
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\csi.rsp
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\System.AppContext.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Console.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\vbc.exe.config
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\vbc.rsp
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config

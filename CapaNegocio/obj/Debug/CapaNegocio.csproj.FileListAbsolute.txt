@@ -1,0 +1,22 @@
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaNegocio\bin\Debug\CapaDato.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaNegocio\bin\Debug\CapaDato.pdb
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\estudiante\source\repos\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaNegocio\bin\Debug\CapaDato.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaNegocio\bin\Debug\CapaDato.pdb
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.pdb

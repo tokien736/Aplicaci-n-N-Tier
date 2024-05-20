@@ -1,0 +1,6 @@
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaDato\bin\Release\CapaDato.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaDato\bin\Release\CapaDato.pdb
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaDato\obj\Release\CapaDato.csproj.AssemblyReference.cache
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaDato\obj\Release\CapaDato.csproj.CoreCompileInputs.cache
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaDato\obj\Release\CapaDato.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaDato\obj\Release\CapaDato.pdb

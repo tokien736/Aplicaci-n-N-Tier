@@ -1,0 +1,11 @@
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaNegocio\bin\Release\CapaNegocio.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaNegocio\bin\Release\CapaNegocio.pdb
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaNegocio\bin\Release\CapaDato.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaNegocio\bin\Release\CapaEntidad.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaNegocio\bin\Release\CapaDato.pdb
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaNegocio\bin\Release\CapaEntidad.pdb
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaNegocio\obj\Release\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaNegocio\obj\Release\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaNegocio\obj\Release\CapaNego.81B9D119.Up2Date
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaNegocio\obj\Release\CapaNegocio.dll
+C:\Users\Jose-PC\Downloads\Nueva carpeta (22)\SistemaAcademico\CapaNegocio\obj\Release\CapaNegocio.pdb
